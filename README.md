@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://github.com/Majkl-J/Majkl-J/blob/main/image_2024-03-04_163321307.png" height="500">
 
 <!--
